@@ -10,7 +10,7 @@ Before we get started, let's just preface this with most, if not all, of this in
 - [The AMS](https://wiki.bambulab.com/en/ams/manual)
 - Waste Disposal:
   - Make sure there is a container behind the waste chute
-- Changing the Print Settings on the Fly
+- Changing the Print Settings on the Bug
 
 ## Software
 
@@ -23,3 +23,5 @@ Before we get started, let's just preface this with most, if not all, of this in
     - [Multiple Bed Prints](https://wiki.bambulab.com/en/software/bambu-studio/plates_management)
     - Filament Print Settings
 - [Drying Filament](https://wiki.bambulab.com/en/general/bambu-filament-drying-cover)
+
+Bugs
